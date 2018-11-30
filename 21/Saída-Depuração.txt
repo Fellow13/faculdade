@@ -1,0 +1,18 @@
+﻿"ConsoleApplication40.exe" (Win32): Carregado "C:\Users\Alex ( Fellow )\source\repos\ConsoleApplication40\Debug\ConsoleApplication40.exe". Símbolos carregados.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\ntdll.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\KernelBase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcp140d.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\vcruntime140d.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\ucrtbased.dll". Não é possível localizar ou abrir o arquivo PDB.
+O thread 0x30b4 foi fechado com o código 0 (0x0).
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel.appcore.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcrt.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\rpcrt4.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\sspicli.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\cryptbase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\bcryptprimitives.dll". Não é possível localizar ou abrir o arquivo PDB.
+"ConsoleApplication40.exe" (Win32): Carregado "C:\Windows\SysWOW64\sechost.dll". Não é possível localizar ou abrir o arquivo PDB.
+O thread 0x2b38 foi fechado com o código 0 (0x0).
+O thread 0x31e8 foi fechado com o código 0 (0x0).
+O programa "[7904] ConsoleApplication40.exe" foi fechado com o código 0 (0x0).
